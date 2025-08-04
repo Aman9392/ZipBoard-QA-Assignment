@@ -12,7 +12,7 @@ public class BaseTest {
     public void setUp() {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.get("https://moote.github.io/qa-demo/"); // Replace with actual URL
+        driver.get("https://moote.github.io/qa-demo/");
     }
 
     @AfterMethod
