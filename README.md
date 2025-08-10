@@ -79,7 +79,8 @@ mvn clean test
 ## Test Report:
 
 * Test execution results can be viewed in the console output.
-* Extend this framework to generate detailed reports (TestNG Reports).
+* After execution on local, you will find the test report in the file path below 
+* Full test report is in the Target folder path - target/surefire-reports/surefire suite/index.html
 
 ---
 
